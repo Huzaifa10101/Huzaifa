@@ -1,2 +1,2 @@
 # Huzaifa
-This is projest of Muhammad Huzaifa Shahzad
+This is project of Muhammad Huzaifa Shahzad
